@@ -1,6 +1,9 @@
 
 
 <h1>:wave: Hello World !</h1>
+
+![](https://komarev.com/ghpvc/?username=AlexandraPho)
+
 <p align="justify">I'm Alexandra, a young mother and newby in web development.
 </p>
 
