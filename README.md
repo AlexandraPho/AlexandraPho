@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<h1>:wave: Hello World !</h1>
+<p align="justify">I'm Alexandra, a young mother and student in web development.
+
+After the birth of my first daughter, I decided to train myself in web development. I first learned on my own then I started looking for a school that would support me in my retraining.
+I trained with O'Clock for 6 months.
+6 months of intense training.</p>
+
+
 <!--
 **AlexandraPho/AlexandraPho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
