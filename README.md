@@ -18,4 +18,4 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></p>
 
 
-[!(https://github-readme-stats.vercel.app/api?username=AlexandraPho)](https://github.com/AlexandraPho/github-readme-stats)
+![Les Stats GitHub de AlexandraPho](https://github-readme-stats.vercel.app/api?username=AlexandraPho&show_icons=true&theme=radical)
