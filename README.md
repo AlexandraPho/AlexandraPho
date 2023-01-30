@@ -8,7 +8,7 @@
 </p>
 
 
-- 🌱 I’m currently learning Vue.js and Wordpress
+- 🌱 I’m currently learning Vue.js and more
 - 📫 How to reach me: alexandrapinheiro.dev@gmail.com
 - 👨‍💻 All of my projects are available at [http://alexandra-pinheiro.fr](http://alexandra-pinheiro.fr)
 
